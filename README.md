@@ -1,2 +1,0 @@
-# tournamentBracket
-Created with CodeSandbox
